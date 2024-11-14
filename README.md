@@ -85,12 +85,12 @@ This feature aims to alert on detected individuals of interest, though it is pla
 Project Structure
 
 Echo-Face-Recognition/
-├── src/                        # Source files
-│   ├── main/                   # Main application files
-│   ├── recognition/            # Face recognition modules
-│   └── database/               # Database-related files
-├── database/                   # Database schema and setup
-└── README.md                   # Project documentation
+├── src/
+│   ├── main/
+│   ├── recognition/
+│   └── database/
+├── database/
+└── README.md
 
 Contributing
 

@@ -1,4 +1,4 @@
-8# Echo Face Recognition
+# Echo Face Recognition
 
 Echo Face Recognition is a real-time facial recognition system built with Java and JavaFX. This project leverages OpenCV to detect faces and perform dynamic image retrieval based on real-time facial detection. Version 2 of the project includes future plans for implementing threat detection, allowing the system to track wanted individuals for law enforcement purposes.
 
@@ -29,7 +29,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/Echo-Face-Recognition.git
+   git clone https://github.com/Bot-37/Echo-Face-Recognition.git
    cd Echo-Face-Recognition
 
 2. Set Up MySQL Database:

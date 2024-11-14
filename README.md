@@ -1,4 +1,4 @@
-# Echo Face Recognition
+8# Echo Face Recognition
 
 Echo Face Recognition is a real-time facial recognition system built with Java and JavaFX. This project leverages OpenCV to detect faces and perform dynamic image retrieval based on real-time facial detection. Version 2 of the project includes future plans for implementing threat detection, allowing the system to track wanted individuals for law enforcement purposes.
 
@@ -117,6 +117,4 @@ JavaFX - For making GUI development seamless.
 
 
 ---
-
-This **README.md** covers essential information about your Echo Face Recognition project and provides clarity for users and collaborators. Add any extra details that may be unique to your project, and remember to adjust URLs and other specifics as necessary.
 

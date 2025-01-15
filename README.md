@@ -83,7 +83,7 @@ This feature aims to alert on detected individuals of interest, though it is pla
 
 
 Project Structure
-
+```
 Echo-Face-Recognition/
 ├── src/
 │   ├── main/
@@ -91,7 +91,7 @@ Echo-Face-Recognition/
 │   └── database/
 ├── database/
 └── README.md
-
+```
 Contributing
 
 Contributions are welcome! Please fork this repository and create a pull request for any enhancements or bug fixes.
